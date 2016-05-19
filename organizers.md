@@ -1,13 +1,11 @@
 ---
 layout: page
-title: #Organizers
+title: Organizers
 subtitle:
 show-avatar: true
 bigimg:
   - "/img/canada-810413_1280.jpg"
 ---
-
-# Organizers
 
 For questions please email to the **workshop co-chairs** [chairs at wesoa dot org](mailto:chairs[at]wesoa.org)
 
@@ -16,6 +14,6 @@ For questions please email to the **workshop co-chairs** [chairs at wesoa dot or
 - Guadalupe Ortiz, University of Cadiz, ES
 - Christian Zirpins, Karlsruhe University of Applied Sciences, DE
 
-## Program Committee
+# Program Committee
 
 TBA soon...
