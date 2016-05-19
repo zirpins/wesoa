@@ -7,7 +7,7 @@ bigimg:
   - "/img/canada-914013_1280.jpg"
 ---
 
-# OVERVIEW
+## OVERVIEW
 
 The WESOA series of workshops addresses challenges that arise from unique characteristics of service-oriented applications by focusing on principles, methodologies and tools that support the entire service-oriented software development lifecycle.
 
@@ -15,7 +15,7 @@ Topics of interest include software service development lifecycle methodologies,
 
 WESOA 2015 continues a successful series of [ICSOC](http://www.icsoc.org) workshops. Over the past decade, WESOA has demonstrated its relevance by attracting a large number of contributors and participants from academia as well as industry, and producing high-quality papers that were published by Springer LNCS series.
 
-# OBJECTIVES
+## OBJECTIVES
 
 Service-oriented applications play an important role in many areas like enterprise computing, cloud computing and the web. While there is an agreement about the main principles for designing and developing such applications, methodologies and tools that support the development of service-oriented applications are still a subject of intensive research.
 
@@ -23,7 +23,7 @@ It is recognized that traditional software engineering approaches require extens
 
 WESOA complements [ICSOC](http://www.icsoc.org) by focusing on core software engineering issues in the context of service-oriented systems, keeping pace with emerging application areas of service computing such mobile, social, cloud computing, smart environments and IoT.
 
-# TOPICS
+## TOPICS
 
 WESOA encourages a transdisciplinary perspective and welcomes papers on topics that include, but are not limited to the following:
 
@@ -49,3 +49,12 @@ WESOA encourages a transdisciplinary perspective and welcomes papers on topics t
 - Engineering service-oriented applications in social network contexts
 - Engineering of data intensive service-oriented systems
 - Case studies and best practices of service-oriented development
+
+## KEY DATES
+
+The workshop schedule is given as follows:
+
+- Submission Deadline: July 24, 2016
+- Notification: August 14, 2016
+- Camera Ready Copy Due: August 30, 2016
+- Workshop: October 10, 2016
