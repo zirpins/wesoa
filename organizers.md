@@ -16,6 +16,6 @@ For questions please email to the **workshop co-chairs** [chairs at wesoa dot or
 - Guadalupe Ortiz, University of Cadiz, ES
 - Christian Zirpins, Karlsruhe University of Applied Sciences, DE
 
-# Program Committee
+## Program Committee
 
 TBA soon...
