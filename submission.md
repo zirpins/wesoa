@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Submission
+title: #Submission
 subtitle:
 show-avatar: true
 bigimg:
   - "/img/moraine-lake-978630_1280.jpg"
 ---
+
+# Submission
 
 Authors are invited to submit original, previously unpublished research papers. Papers should be written in English strictly following Springer LNCS style for all text, references, appendices, and figures. Please, submit papers via the WESOA conference management tool (available soon) in PDF format. For formatting instructions and templates see the [Springer LNCS author web page](http://www.springer.de/comp/lncs/authors.html)
 
