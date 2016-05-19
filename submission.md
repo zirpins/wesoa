@@ -13,10 +13,16 @@ Authors are invited to submit original, previously unpublished research papers. 
 
 The following types of submissions are accepted:
 
-- Full research papers and experience papers with a maximum length of 12
+- **Full research papers and experience papers** with a maximum length of 12
 pages, including references and appendices.
-- Short papers and position papers with a maximum length of 6 pages,
+- **Short papers and position papers** with a maximum length of 6 pages,
 including references and appendices.
+
+## CONDITIONS
+
+All submissions will be peer-reviewed by members of the international program committee. Paper acceptance will be based on originality, significance, technical soundness, and clarity of presentation. Accepted papers will be included in the workshop proceedings, and circulated to participants prior to the event.
+
+At least one author of an accepted paper must register and participate in the workshop. Registration is subject to the terms, conditions and procedure of the main ICSOC conference to be found on their website: http://www.icsoc.org/
 
 ## KEY DATES
 
