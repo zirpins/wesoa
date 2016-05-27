@@ -43,7 +43,7 @@ WESOA encourages a transdisciplinary perspective and welcomes papers on topics t
 - Model-driven SOA and service systems development
 - Reverse engineering of software service systems
 - Tool support for software service engineering
-- Engineering of software services for the cloud
+- Engineering of service-oriented applications in the cloud
 - Service engineering for context-awareness and mobile devices
 - Service engineering in smart environments and IoT
 - Engineering service-oriented applications in social network contexts
