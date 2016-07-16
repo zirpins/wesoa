@@ -13,7 +13,7 @@ The WESOA series of workshops addresses challenges that arise from unique charac
 
 Topics of interest include software service development lifecycle methodologies, service-oriented enterprise architectures, service engineering for cloud computing environments, models, languages and methods for service-oriented analysis and design, and related topics.
 
-WESOA 2015 continues a successful series of [ICSOC](http://www.icsoc.org) workshops. Over the past decade, WESOA has demonstrated its relevance by attracting a large number of contributors and participants from academia as well as industry, and producing high-quality papers that were published by Springer LNCS series.
+WESOA 2016 continues a successful series of [ICSOC](http://www.icsoc.org) workshops. Over the past decade, WESOA has demonstrated its relevance by attracting a large number of contributors and participants from academia as well as industry, and producing high-quality papers that were published by Springer LNCS series.
 
 ## OBJECTIVES
 
@@ -43,7 +43,7 @@ WESOA encourages a transdisciplinary perspective and welcomes papers on topics t
 - Model-driven SOA and service systems development
 - Reverse engineering of software service systems
 - Tool support for software service engineering
-- Engineering of software services for the cloud
+- Engineering of service-oriented applications in the cloud
 - Service engineering for context-awareness and mobile devices
 - Service engineering in smart environments and IoT
 - Engineering service-oriented applications in social network contexts
