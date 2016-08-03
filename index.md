@@ -54,7 +54,7 @@ WESOA encourages a transdisciplinary perspective and welcomes papers on topics t
 
 The workshop schedule is given as follows:
 
-- Submission Deadline: July 24, 2016
-- Notification: August 14, 2016
+- Submission Deadline (extended): August 14, 2016
+- Notification (extended): August 21, 2016
 - Camera Ready Copy Due: August 30, 2016
 - Workshop: October 10, 2016

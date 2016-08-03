@@ -22,8 +22,8 @@ All submissions will be peer-reviewed by members of the international program co
 
 The **workshop schedule** is given as follows:
 
-- Submission Deadline: July 24, 2016
-- Notification: August 14, 2016
+- Submission Deadline (extended): August 14, 2016
+- Notification: August 21, 2016
 - Camera Ready Copy Due: August 30, 2016
 - Workshop: October 10, 2016
 
