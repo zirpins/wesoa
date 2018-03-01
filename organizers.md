@@ -25,6 +25,7 @@ For questions please email to the **workshop co-chairs** [chairs at wesoa dot or
 - Javier Cubo, University of Malaga
 - Florian Daniel, Politecnico di Milano
 - Andrea Delgado, Instituto de Computación, Facultad de Ingeniería
+- Schahram Dustdar, Technical University of Vienna, Austria
 - Marcelo Eler, University of Sao Paulo
 - Laura González, Universidad de la República
 - Christian Janiesch, Julius-Maximilians-Universität Würzburg
